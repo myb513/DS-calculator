@@ -14,9 +14,7 @@ gcc -Wall -c -g calc.c
 
 gcc -Wall -c -g stack.c
 
-gcc -Wall -c -g queue.c```
-
-
+```gcc -Wall -c -g queue.c```
 
 
 ### **2) calculator.exe 실행 파일 생성**
