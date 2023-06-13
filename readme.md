@@ -8,22 +8,22 @@
 ### **1) main.o, calc.o, stack.o, queue.o 목적 파일 생성**
 
 
-```gcc -Wall -c -g main.c
+```gcc -Wall -c -g main.c```
 
-```gcc -Wall -c -g calc.c
+gcc -Wall -c -g calc.c
 
-```gcc -Wall -c -g stack.c
+gcc -Wall -c -g stack.c
 
-```gcc -Wall -c -g queue.c
+gcc -Wall -c -g queue.c
 
 
 ### **2) calculator.exe 실행 파일 생성**
 
-```gcc -o calculator main.o calc.o stack.o queue.o
+gcc -o calculator main.o calc.o stack.o queue.o
 
 
 ### **3) 실행 파일 실행**
 
-```./calculator
+./calculator
 
 
