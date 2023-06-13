@@ -1,7 +1,6 @@
 # **2023 자료구조 과제 리포지토리입니다.**
 
-[toc]
-sd
+[toc]sda
 
 ## **컴파일 방법 (Linux)**
 
@@ -10,9 +9,9 @@ sd
 ### **1) main.o, calc.o, stack.o, queue.o 목적 파일 생성**
 
 ```gcc -Wall -c -g main.c
-gcc -Wall -c -g calc.c
-gcc -Wall -c -g stack.c
-gcc -Wall -c -g queue.c
+```gcc -Wall -c -g calc.c
+```gcc -Wall -c -g stack.c
+```gcc -Wall -c -g queue.c
 
 
 ### **2) calculator.exe 실행 파일 생성**
