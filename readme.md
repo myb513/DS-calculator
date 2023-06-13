@@ -7,7 +7,6 @@
 
 ### **1) main.o, calc.o, stack.o, queue.o 목적 파일 생성**
 
-<img src="https://gist.github.com/myb513/5d67d5d81925fbc110c4fda74697313b.js"></img>
 
 ```gcc -Wall -c -g main.c
 
